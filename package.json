@@ -1,0 +1,23 @@
+{
+  "name": "electronlearning",
+  "version": "0.0.1",
+  "description": "electron learning",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veemartx/electronLearning.git"
+  },
+  "author": "vee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veemartx/electronLearning/issues"
+  },
+  "homepage": "https://github.com/veemartx/electronLearning#readme",
+  "dependencies": {
+    "electron": "^9.0.5"
+  }
+}
