@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/veemartx/electronLearning#readme",
   "dependencies": {
-    "electron": "^9.0.5"
+    "electron": "^9.4.0"
   }
 }
